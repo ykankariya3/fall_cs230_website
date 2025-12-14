@@ -3,29 +3,54 @@
 layout: default
 keywords:
 comments: false
-
-# Hero section
 title: Frequently Asked Questions
-description:
-
-
-# Micro navigation
+description: Frequently Asked Questions for CS230
 micro_nav: false
-
 ---
+
+# Frequently Asked Questions
+
+## I'm deciding between CS229, CS129, CS221, CS224N, CS231N, etc. Which should I take?
+For a more holistic understanding of machine learning (ML is more than deep learning!), CS129 and CS221 are solid options.
+
+## How do I get PyTorch / TensorFlow installed on my machine?
+
+### PyTorch Installation
+
+For CPU only:
+```bash
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
+```
+
+With CUDA (GPU support, replace cu121 with the CUDA version supported by your system/driver):
+```bash
+conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
+```
+
+### TensorFlow Installation
+
+For CPU only:
+```bash
+pip install tensorflow
+```
+
+For GPU support (if you have CUDA-compatible hardware and drivers installed):
+```bash
+pip install tensorflow-gpu
+```
 
 ## What is the grading breakdown?
 Below is the breakdown of the class grade:
- * 40%: Final project (broken into proposal, milestone, final report and final video)
-   One meeting with a TA each before the proposal, milestone and final report are graded.
+ * 40%: Final project (broken into proposal, milestone, final report and final poster session) One meeting with a TA each before the proposal, milestone and final report are graded.
  * 25%: Midterm
  * 25%: Programming assignment
  * 8%: Quizzes
- * 2%: Meeting Attendance
+ * 2%: Meeting Attendance (one before the proposal deadline and one before the milestone deadline)
 
 ## Will there be a poster session?
-Yes, there will be a poster session. The poster session will be on 12/13 at AOERC Basketball courts. The poster session will take place from 11:30am-3pm. Poster session attendance is a requirement for the course. For SCPD students, you will be submitting your posters online and uploading a video presentation. More information will be announced closer to the poster session date.
+The poster session will be held on Wednesday, December 10 from 12:15 PM to 3:15 PM in the AOERC indoor basketball court. All on-campus students will need to attend the poster session to present. CGOE students will have the option to submit a video presentation. Attendance for on-campus students is mandatory.
 
+The poster and video submission will be due on gradescope on 12/19 11:59 PM.
 ## Will there be sections?
 Yes, there will still be sections. Check Ed for information about logistics.
 
@@ -35,14 +60,14 @@ Lectures are on Tuesdays 11:30am-1:20pm  in Hewlett Teaching Center 200 . We enc
 ## How is the final project graded?
 The final project grade will incorporate the following components:
  * Grade on 4 deliverables
- * Meeting attendance/participation for 3 TA meetings
+ * Meeting attendance/participation for 2 TA meetings
 
 ## What are the deliverables as part of the final project?
 The project has main deliverables:
  * Proposal
  * Milestone
  * Final report
- * Poster session Presentation
+ * Poster session presentation (or video presentation)
 
 Deadlines are listed in the project page and on the schedule page of the website.
 
@@ -65,7 +90,7 @@ We recommend teams of 3 students, while teams sizes of 1 or 2 are also acceptabl
 
 The reason we encourage students to form teams of 3 is that, in our experience, this size usually fits best the expectations for the CS230 projects. In particular, we expect the team to submit a completed project (even for team of 1 or 2), so keep in mind that all projects require to spend a decent minimum effort towards gathering data, and setting up the infrastructure to reach some form of result. In a three-person team this can be shared much better, allowing the team to focus a lot more on the interesting stuff, e.g. results and discussion.
 
-In exceptional cases, we can allow a team of 4 people. If you plan to work on a project in a team of 4, please come talk to one of the TAs beforehand so we can ensure that the project has a large enough scope.
+All team members will receive the same grade; therefore, each member is expected to pull their weight.
 
 
 ## How do I get Tensorflow / PyTorch installed on my machine?
@@ -76,14 +101,14 @@ For PyTorch, follow the above step and also run the command: conda install pytor
 ## Where can I find some inspiration or ideas for projects?
 A first step is to survey what’s been done by previous CS230 students. You can check out previous projects on the projects page of the site. You’ll also want to do some searching for datasets you’re interested in. It’s one thing to have a cool model idea, but you still need a good enough dataset to go with it so do some digging for what kind of data interests you. A few other great resources are the “Awesome X” series of GitHub pages that breakdown great papers, datasets, and GitHub repos in respective fields: [Awesome NLP](https://github.com/keon/awesome-nlp), [Awesome CV](https://github.com/jbhuang0604/awesome-computer-vision), [Awesome GAN](https://github.com/nightrome/really-awesome-gan). 
 
-## I’m deciding between CS229, CS229A, CS221, CS224N, CS231N, etc. Which should I take?
-There’s no straight forward answer since all are great options! If you’re specifically interested in deep learning and want a general overview, CS230 is your choice. If you rather specialize in a specific domain like computer vision or NLP and feel comfortable with a faster pace, then take CS231N or CS224N. If you don’t have any experience with machine learning, it’s still possible to do CS230 just fine as long as you can follow along with the coding assignments and math. For a more holistic understanding of machine learning (ML is more than deep learning!), CS229A and CS221 are solid options. If you want to go back to the very core mathematical foundations that underpin the history of ML, then take CS229.
+## I’m deciding between CS229, CS129, CS221, CS224N, CS231N, etc. Which should I take?
+There’s no straight forward answer since all are great options! If you’re specifically interested in deep learning and want a general overview, CS230 is your choice. If you rather specialize in a specific domain like computer vision or NLP and feel comfortable with a faster pace, then take CS231N or CS224N. If you don’t have any experience with machine learning, it’s still possible to do CS230 just fine as long as you can follow along with the coding assignments and math. For a more holistic understanding of machine learning (ML is more than deep learning!), CS129 and CS221 are solid options. If you want to go back to the very core mathematical foundations that underpin the history of ML, then take CS229.
 
 ## What’s the difference between normal office hours and project office hours?
 Normal office hours should generally be attended if you would like some help on the homework assignments. Once you have a team and the team has submitted a proposal, you’ll  be assigned a designated project TA who will serve as a mentor for our project. Keep updated with Ed and email to keep track of when you’re required and able to sign up for a meet-up with your mentor for project office hours. These are informal meetings where you can talk about your ideas, concerns, or interests related to the project.
 
 ## I need help debugging my code for my project. How do I get help?
-You should reach out to your project mentor. You could either sign-up for on of their open office hours or contact them directly to set up an appointment. Try to have as much debugging information available such as error messages, stack-traces, and documentation.
+CS230 is an advanced undergraduate and graduate-level class. We generally ask all students to be able to debug their code using any resources available to them. TAs generally will not be assisting with debugging.
 
 ## Is there a textbook or other resource I could use to supplement my learning?
 Not officially, but a great resource is [The Deep Learning book](http://www.deeplearningbook.org/). You can also find lecture videos from CS231N and CS224N on YouTube for free that might go a bit more in-depth with some of the concepts we will cover
@@ -93,4 +118,4 @@ See the question above. You might have to learn some core concepts there on your
 
 
 ## Can I audit CS230?
-In general we welcome guests to sit-in on lectures if they are a member of the Stanford community (registered student, staff, and/or faculty). If the class is too crowded and we're out of space, we ask to give priority to enrolled students. To get access to the course materials (including the Coursera private sessions), you have to enroll in the class or be a Research Scientist, Visiting Scholar, Postdoctoral student, faculty or staff and have a SUNet ID. We do not give access to the Coursera platform to students who aren't in the above categories. If you are a Research Scientist, Visiting Scholar, Postdoctoral student, Faculty or Staff with a valid SUNet ID, please fill out the following [request form](https://forms.gle/zDCxE7ZvZDvFCxcH6).
+In general we welcome guests to sit-in on lectures if they are a member of the Stanford community (registered student, staff, and/or faculty). If the class is too crowded and we’re out of space, we ask to give priority to enrolled students. Auditors have access to recorded lectures on canvas as well. However, please keep in mind that we cannot add auditors to Ed, Gradescope, and Coursera platform. If you are a Research Scientist, Visiting Scholar, Postdoctoral student, Faculty or Staff with a valid SUNet ID, please fill out the following [request form](https://forms.gle/xZXdvW7Ad6bahAsy8).

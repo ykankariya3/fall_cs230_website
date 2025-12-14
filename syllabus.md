@@ -4,17 +4,16 @@ comments: false
 keywords:
 
 title: Syllabus
-description: For all "Materials and Assignments", follow the deadlines listed on this page, not on Coursera! Assignments are usually due every Tuesday 11:30 a.m. PST at the beginning of lecture time.
+description: For all "Materials and Assignments", follow the deadlines listed on this page, not on Coursera! Assignments are due every Tuesday by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted.
 buttons:
 micro_nav: false
 ---
 
 ## Announcements
-- The course website for Fall offering of 2024 is still in the process of updating. Please keep in mind that changes will be made up until 9/23 so please refer to the website for the most up-to-date information on the first day of the quarter.
+- The course website for Fall offering of 2025 is still in the process of updating. Please keep in mind that changes will be made up until 9/30 so please refer to the website for the most up-to-date information on the first day of the quarter.
 - Please join [Ed]({{site.course.ed}}) during the first week. This is where the majority of course announcements will be found.
 - Video cameras located in the back of the room will capture the instructor presentations in this course. For your convenience, you can access these recordings by logging into the course Canvas site. These recordings might be reused in other Stanford courses, viewed by other Stanford students, faculty, or staff, or used for other education and research purposes. Note that while the cameras are positioned with the intention of recording only the instructor, occasionally a part of your image or voice might be incidentally captured. If you have questions, please contact a member of the teaching team.
-- Since the exam will be in-person, SCPD/CGOE students will need to nominate exam monitors for both exams and coordinate the exam process with the SCPD exams team. Please refer to this [link](https://online.stanford.edu/programs/graduate-education/exams-homework-faqs) for more information on the process. For any additional questions, please reach out to the SCPD exams team at scpd-exams@stanford.edu.
-- If you would like to audit the course, please fill out the following [request form](https://forms.gle/zDCxE7ZvZDvFCxcH6).
+- If you would like to audit the course, please fill out the following [request form](https://forms.gle/xZXdvW7Ad6bahAsy8).
 
 ## Syllabus
 - Modules are equivalent to “Weeks” in the Coursera courses. For example, C1M1 refers to C1 Week 1.
@@ -37,9 +36,9 @@ micro_nav: false
     <tbody>
         <tr>
             <td>Lecture&nbsp;1</td>
-            <td> 9/24 </td>
+            <td> 9/23/2025 </td>
             <td>
-                <strong>Topics:</strong> <a href="spring_2022/lecture_1.pdf">(slides)</a>
+                <strong>Topics:</strong> <a href="fall_2024/lecture_1.pdf">(slides)</a>
                 <ul>
                     <li>Class introduction</li>
                     <li>Examples of deep learning projects</li>
@@ -60,13 +59,13 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;2</td>
-            <td> 10/01 </td>
+            <td> 9/30/2025 </td>
             <td>
-                <strong>Topics: </strong>Deep Learning Intuition <a href="spring_2022/lecture_2.pdf">(slides)</a>
+		<strong>Topics: </strong>Key AI Concepts Through Case Studies <a href="fall_2025/2/lecture_2.pdf">(slides)</a>
             </td>
             <td><strong>Completed modules:</strong>
                 <ul>
-                    <li>C1M1: Introduction to deep learning <a href="/files/C1M1.pdf">(slides)</a></li>
+                    <li>C1M1: Introduction to deep learning <a href="/files/C1M1.pdf">(slides)</a></li>due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted
                     <li>C1M2: Neural Network Basics <a href="/files/C1M2.pdf">(slides)</a></li>
                 </ul>
                 <strong>Optional Video</strong>
@@ -75,12 +74,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at the beginning of lecture time):</strong>
+                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Introduction to deep learning</li>
                     <li>Neural Networks Basics</li>
                 </ul>
-                <strong>Programming Assignments (due at the beginning of lecture time)</strong>
+                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted)</strong>
                 <ul>
                     <li>Python Basics with Numpy (Optional)</li>
                     <li>Logistic Regression with a neural network mindset</li>
@@ -89,14 +88,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;3</td>
-            <td>10/08</td>
+            <td>10/7/2025</td>
             <td>
-                <strong>Topics:</strong> Adversarial examples - GANs <a href="spring_2022/lecture_3.pdf">(slides)</a>
-                <ul>
-                    <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks</li>
-                </ul>
-                <strong>Optional Readings:</strong>
-                <a href="https://arxiv.org/pdf/1412.6572.pdf">Explaining and Harnessing Adversarial Examples</a>, <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets</a>, <a href="https://arxiv.org/pdf/1611.07004.pdf">Conditional GAN</a>, <a href="https://arxiv.org/pdf/1609.04802.pdf">Super-Resolution GAN</a>, <a href="https://arxiv.org/pdf/1703.10593.pdf">CycleGAN</a>
+	        <strong>Topics:</strong> Full Cycle of a DL project
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -106,12 +100,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at the beginning of lecture time):</strong>
+                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Shallow Neural Networks</li>
                     <li>Key concepts on Deep Neural Networks</li>
                 </ul>
-                <strong>Programming Assignments (due at the beginning of lecture time):</strong>
+                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Planar data classification with a hidden layer</li>
                     <li>Building your Deep Neural Network: step by step</li>
@@ -121,16 +115,16 @@ micro_nav: false
         </tr>
         <tr style="background-color:#ffb7bf">
             <td><strong>Project Meeting #1</strong></td>
-            <td><strong>{{ site.course.project_timeline.proposal | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><strong>10/14/2025 (Meeting #1, project proposal due 11 am PST)</strong></td>
             <td><a href="/project/#proposal">Instructions</a></td>
             <td></td>
             <td>
-                <strong>Meet with any TA between 9/24 and 10/08 to discuss your proposal.</strong>
+                <strong>Meet with any TA before this deadline to discuss your proposal</strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Project Proposal Due</strong></td>
-            <td><strong>{{ site.course.project_timeline.proposal | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><strong>10/14/2025 (due 11 am PST)</strong></td>
             <td><a href="/project/#proposal">Instructions</a></td>
             <td></td>
             <td></td>
@@ -142,9 +136,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;4</td>
-            <td>10/15</td>
+            <td>10/14/2025</td>
             <td>
-                <strong>Topics: </strong>Full-cycle of a Deep Learning Project (no slides)
+                <strong>Topics: </strong>Adversarial Robustness and Generative Models <a href="fall_2025/4/lecture_4.pdf">(slides)</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -154,12 +148,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at the beginning of lecture time):</strong>
+                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Practical aspects of deep learning</li>
                     <li>Optimization Algorithms</li>
                 </ul>
-                <strong>Programming Assignments (due at the beginning of lecture time):</strong>
+                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Initialization</li>
                     <li>Regularization</li>
@@ -175,11 +169,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;5</td>
-            <td>10/22</td>
+            <td>10/21/2025</td>
             <td>
-                <strong>Topics:</strong> AI and Healthcare. Guest Speaker: Pranav Rajpurkar.
-                <a href="spring_2022/lecture5_guest.pdf">(guest slides)</a>
-                <a href="spring_2022/lecture_5.pdf">(main slides)</a>
+                <strong>Topics:</strong> Deep Reinforcement Learning <a href="fall_2025/5/lecture_5.pdf">(slides)</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -190,16 +182,17 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at the beginning of lecture time):</strong>
+                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Hyperparameter tuning, Batch Normalization, Programming Frameworks</li>
                     <li>Bird recognition in the city of Peacetopia (case study)</li>
                     <li>Autonomous driving (case study)</li>
                 </ul>
-                <strong>Programming Assignments (due at the beginning of lecture time):</strong>
+                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Tensorflow</li>
                 </ul>
+                <strong>EDIT: Please submit the deliverables (quizzes and PAs) by 11 AM on Thursday, October 23.</strong>
             </td>
         </tr>
         <tr>
@@ -209,12 +202,21 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture 6</td>
-            <td>10/29</td>
+            <td>10/28/2025</td>
             <td>
-                <strong>Topics:</strong> Deep Learning Strategy (no slides)
-                <br>
-                <br>
-                <strong>Optional Reading:</strong> <a href="https://arxiv.org/pdf/1603.07285.pdf">A guide to convolution arithmetic for deep learning</a>, <a href="https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf">Is the deconvolution layer the same as a convolutional layer?</a>, <a href="https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf">Visualizing and Understanding Convolutional Networks</a>, <a href="https://arxiv.org/pdf/1312.6034.pdf">Deep Inside Convolutional Networks: Visualizing Image Classification Models and Saliency Maps</a>, <a href="https://arxiv.org/pdf/1506.06579.pdf">Understanding Neural Networks Through Deep Visualization</a>, <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">Learning Deep Features for Discriminative Localization</a>
+                <strong>Topics:</strong>
+                <ul>
+                    <li>Career Advice</li>
+                    <li>Reading Research Papers</li>
+                     <li>(Maybe:) AI and Healthcare. Guest Speaker: Pranav Rajpurkar.
+                          <a href="fall_2024/lecture5_guest.pdf">(guest slides)</a>
+                             <a href="fall_2024/lecture_5.pdf">(main slides)</a></li>
+                </ul>
+                <strong>Optional Reading</strong>
+                <ul>
+                    <li><a href="https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a></li>
+                    <li><a href="https://arxiv.org/abs/1608.06993">DenseNet: Densely Connected Convolutional Networks</a></li>
+                </ul>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -224,23 +226,23 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at the beginning of lecture time):</strong>
+                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>The basics of ConvNets</li>
                     <li>Deep convolutional models</li>
                 </ul>
-                <strong>Programming Assignments (due at the beginning of lecture time):</strong>
+                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Convolutional Model: step by step</li>
                     <li>Convolutional Model: application</li>
-                    <li>Keras Tutorial: This assignment is optional.</li>
                     <li>Residual Networks</li>
+                    <li>Transfer Learning with MobileNet</li>
                 </ul>
             </td>
         </tr>
         <tr>
             <td>Lecture&nbsp;7</td>
-            <td>11/05</td>
+            <td>11/4/2025 (Democracy day - NO CLASS)</td>
             <td>
                 <strong>Democracy day:</strong> NO CLASS
             </td>
@@ -252,37 +254,28 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at the beginning of lecture time):</strong>
+                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Detection Algorithms</li>
                     <li>Special Applications: Face Recognition & Neural Style Transfer</li>
                 </ul>
-                <strong>Programming Assignments (due at the beginning of lecture time):</strong>
+                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Car Detection with YOLO</li>
                     <li>Art Generation with Neural Style Transfer</li>
                     <li>Face Recognition</li>
+                    <li>Image Segmentation with U-Net</li>
                 </ul>
             </td>
         </tr>
         <tr>
             <td>Midterm Review</td>
-            <td> TBD </td>
-            <td><strong>Past midterms:</strong>
-                <ul>
-                    <li>Fall 2018 Midterm <a href="/files/cs230exam_fall18.pdf">(without solutions)</a>, <a href="/files/cs230exam_fall18_soln.pdf">(with solutions)</a></li>
-                    <li>Winter 2019 Midterm <a href="/files/cs230exam_win19.pdf">(without solutions)</a>, <a href="/files/cs230exam_win19_soln.pdf">(with solutions)</a></li>
-                    <li>Fall 2019 Midterm <a href="/files/cs230exam_fall19.pdf">(without solutions)</a>, <a href="/files/cs230exam_fall19_soln.pdf">(with solutions)</a></li>
-                    <li>Winter 2020 Midterm <a href="/files/cs230exam_win20.pdf">(without solutions)</a>, <a href="/files/cs230exam_win20_soln.pdf">(with solutions)</a></li>
-                    <li>Fall 2020 Midterm <a href="/files/cs230exam_fall20.pdf">(without solutions)</a>, <a href="/files/cs230exam_fall20_soln.pdf">(with solutions)</a></li>
-                    <li>Spring 2021 Midterm <a href="fall_2021/cs230exam_spr21.pdf">(without solutions)</a>, <a href="fall_2021/cs230exam_spr21_soln.pdf">(with solutions)</a></li>
-                </ul>
-            </td>
+            <td> Midterm review day is when section 6 takes place (10/31, 11:30 AM-12:20 PM) </td>
         </tr>
         <tr style="background-color:#ffcece" id="midterm">
             <td><strong>Midterm</strong></td>
-            <td> <strong>11/06</strong></td>
-            <td></td>
+            <td> <strong>11/6/2025</strong></td>
+            <td> 6pm - 9pm in-person. There will be no make-up exams.</td>
             <td>
             <br>
             </td>
@@ -290,18 +283,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;8</td>
-            <td>11/12</td>
+            <td>11/11/2025</td>
             <td>
-                <strong>Topics:</strong>
-                <ul>
-                    <li>Career Advice</li>
-                    <li>Reading Research Papers</li>
-                </ul>
-                <strong>Optional Reading</strong>
-                <ul>
-                    <li><a href="https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a></li>
-                    <li><a href="https://arxiv.org/abs/1608.06993">DenseNet: Densely Connected Convolutional Networks</a></li>
-                </ul>
+                <strong>Topics:</strong> Beyond the model: Enhancing LLM applications <a href="fall_2025/7/lecture_7.pdf">(slides)</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -310,11 +294,11 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at the beginning of lecture time):</strong>
+                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Recurrent Neural Networks</li>
                 </ul>
-                <strong>Programming Assignments (due at the beginning of lecture time):</strong>
+                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Building a Recurrent Neural Network - Step by Step</li>
                     <li>Dinosaur Land -- Character-level Language Modeling</li>
@@ -324,16 +308,16 @@ micro_nav: false
         </tr>
         <tr style="background-color:#ffb7bf">
             <td><strong>Project Meeting #2</strong></td>
-            <td><strong>{{ site.course.project_timeline.milestone | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><strong>11/11/2025 (Meeting #2, project milestone due 11 am PST)</strong></td>
             <td><a href="/project/#milestone">Instructions</a></td>
             <td></td>
             <td>
-                <strong>Meet with your assigned TA between 10/08 and 11/15 to discuss your milestone report.</strong>
+                <strong> Meet with your assigned TA before this deadline to discuss your proposal.</strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Project Milestone Due</strong></td>
-            <td><strong>{{ site.course.project_timeline.milestone | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><strong>11/11/2025 (due 11 am PST)</strong></td>
             <td><a href="/project/#milestone">Instructions</a></td>
             <td></td>
             <td></td>
@@ -345,19 +329,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;9</td>
-            <td>11/19</td>
+            <td>11/18/2025</td>
             <td>
-                <strong>Topics:</strong>
-                <a href="spring_2022/lecture_9.pdf">(slides)</a>
-                <ul>
-                    <li>Deep Reinforcement Learning</li>
-                </ul>
-                <br>
-                <strong>Optional Reading:</strong>
-                <ul>
-                    <li><a href="https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf">Human-level control through deep reinforcement learning</a></li>
-                    <li><a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a></li>
-                </ul>
+	       <strong>Topics:</strong> Career Advice + Reading research papers + Guest Lecture <a href="fall_2025/8/lecture_8.pdf">(slides)</a> <a href="fall_2025/8/lecture_8_guest.pdf">(slides)</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -367,12 +341,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at the beginning of lecture time):</strong>
+                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Natural Language Processing and Word Embeddings</li>
                     <li>Sequence Models and Attention Mechanism</li>
                 </ul>
-                <strong>Programming Assignments (due at the beginning of lecture time):</strong>
+                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Operations on Word Vectors - Debiasing</li>
                     <li>Emojify!</li>
@@ -383,34 +357,30 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;10</td>
-            <td>12/03</td>
+            <td>12/2/2025</td>
             <td>
-                <strong>Topics:</strong> <a href="fall_2021/lecture_10.pdf">(slides)</a>
+ 	      <strong>Topics:</strong> What’s Going On Inside My Model? + Class Wrap <a href="fall_2025/10/lecture_10.pdf">(slides)</a>
+            </td>
+            <td>
+                <strong>Completed modules:</strong>
                 <ul>
-                    <li>Class wrap-up</li>
-                    <li>What's next?</li>
+                    <li>C5M4: Transformer network <a href="fall_2025/10/C5_W4.pdf">(slides)</a></li>
                 </ul>
             </td>
-            <td></td>
             <td>
-                <strong>Optional:</strong>
+                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
-                    <li>If you’re interested in testing your ML/DL skills or preparing for job interviews in AI, you can take the <a href="https://www.workera.ai/candidates">Workera assessment</a></li>
+                    <li>Transformers</li>
                 </ul>
-            </td>
-        </tr>
-        <tr style="background-color:#ffb7bf">
-            <td><strong>Project Meeting #3</strong></td>
-            <td><strong>{{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#final-report">Instructions</a></td>
-            <td></td>
-            <td>
-                <strong>Meet with your assigned TA between 11/15 and 12/03 (before class) to discuss your final project report.</strong>
+                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <ul>
+                    <li>Tranformers Architecture with Tensorflow</li>
+                </ul >
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
-            <td><strong>Project Final Report &amp; Video Due</strong></td>
-            <td><strong>{{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><strong>Project Final Report Due</strong></td>
+            <td><strong>12/5/2025 (due 11:59 pm PST)</strong></td>
             <td><a href="/project/#final-report">Instructions</a></td>
             <td></td>
             <td>
@@ -419,10 +389,9 @@ micro_nav: false
         </tr>
         <tr style="background-color:#ffcece" id="midterm">
             <td><strong>Project Poster Session</strong></td>
-            <td> <strong>12/13 Friday 11:30 AM - 3:00 PM</strong></td>
+            <td> <strong>12/10/2025 (Poster session, 12:15-3:15 pm)</strong></td>
             <td></td>
             <td></td>
-            <td><strong> Location: AOERC Basketball courts</strong></td>
         </tr>
     </tbody>
 </table>

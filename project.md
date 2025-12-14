@@ -2,7 +2,6 @@
 layout: default
 keywords:
 comments: false
-
 title: Project
 description: One of CS230's main goals is to prepare you to apply machine learning algorithms to real-world tasks, or to leave you well-qualified to start machine learning or AI research. The final project is intended to start you in these directions.
 buttons: [past-projects]
@@ -33,7 +32,7 @@ Many fantastic class projects come from students picking either an application a
 
 ## Project Hints
 
-A very good CS230 project will be a publishable or nearly-publishable piece of work. Each year, some number of students continue working on their projects after completing CS230, submitting their work to a conferences or journals. Thus, for inspiration, you might also look at some recent deep learning research papers. Two of the main machine learning conferences are [ICML](https://icml.cc/) and [NeurIPS](https://nips.cc/). You may also want to look at class projects from previous years of CS230 ([Fall 2017](/past-projects/#fall-2017), [Winter 2018](/past-projects/#winter-2018), [Spring 2018](/past-projects/#spring-2018), [Fall 2018](/past-projects/#fall-2018)) and other machine learning/deep learning classes ([CS229](http://cs229.stanford.edu/), [CS229A](https://web.stanford.edu/class/cs229a/), [CS221](http://web.stanford.edu/class/cs221/), [CS224N](http://web.stanford.edu/class/cs224n/), [CS231N](http://cs231n.stanford.edu/)) is a good way to get ideas. Finally, we crowdsourced and curated a list of ideas that you can view [here](https://docs.google.com/spreadsheets/d/1YkAb42tZ-dnbP6dwt27a0o2fvxOfY5PdYrP05SQXRL0), and an older one [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQTET1ylqUtE0hMsuunRcIXcoHTiOND8-898qMTP62rx0vscWynxY2kseLDwpaJ5jIG9RqurncTQFOz/pubhtml?gid=1152827187&single=true), and a  (requires Stanford login).
+A very good CS230 project will be a publishable or nearly-publishable piece of work. Each year, some number of students continue working on their projects after completing CS230, submitting their work to a conferences or journals. Thus, for inspiration, you might also look at some recent deep learning research papers. Two of the main machine learning conferences are [ICML](https://icml.cc/) and [NeurIPS](https://nips.cc/). You may also want to look at class projects from previous years of CS230 (see Past Projects above) and other machine learning/deep learning classes ([CS229](http://cs229.stanford.edu/), [CS129](https://web.stanford.edu/class/cs129/), [CS221](https://stanford-cs221.github.io/autumn2025/), [CS224N](http://web.stanford.edu/class/cs224n/), [CS231N](http://cs231n.stanford.edu/)) is a good way to get ideas. Finally, we crowdsourced and curated a list of ideas that you can view [here](https://docs.google.com/spreadsheets/d/1YkAb42tZ-dnbP6dwt27a0o2fvxOfY5PdYrP05SQXRL0), and an older one [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQTET1ylqUtE0hMsuunRcIXcoHTiOND8-898qMTP62rx0vscWynxY2kseLDwpaJ5jIG9RqurncTQFOz/pubhtml?gid=1152827187&single=true), and a  (requires Stanford login).
 
 Once you have identified a topic of interest, it can be useful to look up existing research on relevant topics by searching related keywords on an academic search engine such as: [http://scholar.google.com](http://scholar.google.com). Another important aspect of designing your project is to identify one or several datasets suitable for your topic of interest. If that data needs considerable pre-processing  to suit your task, or that you intend to collect the needed data yourself, keep in mind that this is only one part of the expected project work, but can often take considerable time. We still expect a solid methodology and discussion of results, so pace your project accordingly.
 
@@ -42,6 +41,7 @@ Notes on a few specific types of projects:
  * **Computation power.** Amazon Web Services is sponsoring the CS230 projects by providing you with GPU credits to run your experiments! We will update regarding how to retrieve your GPU credits. Alternatively Google Cloud and Microsoft Azure offer free academic units which you can apply to.
  * **Preprocessed datasets.** While we don't want you to have to spend much time collecting raw data, the process of inspecting and visualizing the data, trying out different types of preprocessing, and doing error analysis is often an important part of machine learning. Hence if you choose to use preprepared datasets (e.g. from Kaggle, the UCI machine learning repository, etc.) we encourage you to do some data exploration and analysis to get familiar with the problem.
  * **Replicating results.** Replicating the results in a paper can be a good way to learn. However, we ask that instead of just replicating a paper, also try using the technique on another application, or do some analysis of how each component of the model contributes to final performance.
+ * **Use of LLMs.** Simply prompting LLMs without additional training does not qualify as a valid project for this class. Projects must involve substantive deep learning training work that aligns with the concepts we cover in this course.
 
 # Project Deliverables
 
@@ -49,9 +49,9 @@ This section contains the detailed instructions for the different parts of your 
 
 **Groups:** The project is done in groups of 1-3 people; teams are formed by students.
 
-**Submission:** We will be using Gradescope for submission of all four parts of the final project. We’ll announce when submissions are open for each part. You should submit on Gradescope as a group: that is, for each part, please make one submission for your entire project group and tag your team members.
+**Submission:** We will be using Gradescope for submission of all four parts of the final project. We'll announce when submissions are open for each part. **You should submit on Gradescope as a group: that is, for each part, please make one submission for your entire project group and tag your team members.** In addition, please make sure you tag all of your pages correctly. There may be a penalty for any mis-tagging.
 
-**Evaluation:** We will not be disclosing the breakdown of the 40% that the final project is worth amongst the different parts, but the video and final report will combine to be the majority of the grade. **Attendance and participation during your TA meetings will also be considered.** Projects will be evaluated based on:
+**Evaluation:** We will not be disclosing the breakdown of the 40% that the final project is worth amongst the different parts, but the final report will be the majority of the grade. **Attendance and participation during your TA meetings will also be considered.** Projects will be evaluated based on:
 
  * The technical quality of the work. (I.e., Does the technical material make sense? Are the things tried reasonable? Are the proposed algorithms or applications clever and interesting? Do the authors convey novel insight about the problem and/or algorithms?)
  * Significance. (Did the authors choose an interesting or a “real" problem to work on, or only a small “toy" problem? Is this work likely to be useful and/or have impact?)
@@ -63,7 +63,7 @@ In order to highlight these components, it is important you present a solid disc
 
 ## Proposal
 
-**Deadline:** {{ site.course.project_timeline.proposal | date: site.course.project_timeline.long_date_format }}
+**Deadline:** October 14, Tuesday 11:00 AM PST
 
 First, make sure to submit a Googleform (which will be posted/shared on Ed) so that we can match you to a TA mentor. In the form you willl have to provide your project title, team members, and relevant research area(s).
 
@@ -93,12 +93,12 @@ We link one past example of a good project proposal [here](/winter2020/example_p
 
 | **Project mentors** | Based off of the topic you choose in your proposal, we’ll suggest a project mentor given the areas of expertise of the TAs. This is just a recommendation; feel free to speak with other TAs as well.
 | **Format** | Your proposal should be a PDF document, giving the title of the project, the project category, the full names of all of your team members, the SUNet ID of your team members, and a 300-500 word description of what you plan to do.
-| **Grading** | The project proposal is mainly intended to make sure you decide on a project topic and get feedback from TAs early. As long as your proposal follows the instructions above and the project seems to have been thought out with a reasonable plan, you should do well on the proposal.
+| **Grading** | The project proposal is mainly intended to make sure you decide on a project topic and get feedback from TAs early. As long as your proposal follows the instructions above and the project seems to have been thought out with a reasonable plan, you should do well on the proposal. Additionally, we ask you to meet with a TA prior to the deadline to run your ideas by them. This will count toward your attendance grade.
 | **Submission** | Fill out the form shared on Ed and submit the proposal on Gradescope (see description under deadline for instructions)
 
 ## Milestone
 
-**Deadline:** {{ site.course.project_timeline.milestone | date: site.course.project_timeline.long_date_format }}
+**Deadline:** November 11, Tuesday 11:00 AM PST
 
 The milestone will help you make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report. Please write the milestone (and final report) keeping in mind that the intended audience is Profs. Ng and Katanforoosh and the TAs. Thus, for example, you should not spend two pages explaining what logistic regression is. Your milestone should include the full names of all your team members and state the full title of your project. **Note:** We will expect your final writeup to be on the same topic as your milestone. In order to help you the most, we expect you to submit your running code. Your code should contain a baseline model for your application. Along with your baseline model, you are welcome to submit additional parts of your code such as data pre-processing, data augmentation, accuracy matric(s), and/or other models you have tried. Please clean your code before submitting, comment on it, and cite any resources you used. Please **do not submit your dataset**. However, you may include a few samples of your data in the report if you wish.
 
@@ -118,7 +118,7 @@ The milestone will help you make sure you're on track, and should describe what 
         </tr>
         <tr>
             <td><b>Grading</b></td>
-            <td>The milestone is mostly intended to get feedback from TAs to make sure you’re making reasonable progress. As long as your milestone follows the instructions and you seem to have tested any assumptions which might prevent your team from completing the project, you should do well on the milestone.</td>
+            <td>The milestone is mostly intended to get feedback from TAs to make sure you’re making reasonable progress. As long as your milestone follows the instructions and you seem to have tested any assumptions which might prevent your team from completing the project, you should do well on the milestone. Additionally, we ask you to meet with your assigned TA prior to the deadline to check in. This will count toward your attendance grade.</td>
         </tr>
         <tr>
             <td><b>Submission</b></td>
@@ -127,25 +127,9 @@ The milestone will help you make sure you're on track, and should describe what 
     </tbody>
 </table>
 
-## Video
-
-**Submission Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
-
-Your video is required to be a 3-4 minute summary of your work. **There is a hard limit of 4 minutes, and TAs will not watch a video beyond the 4 minute mark.** Include diagrams, figures and charts to illustrate the highlights of your work. The video needs to be visually appealing, but also illustrate technical details of your project.
-
-If possible, try to come up with creative visualizations of your project. These could include:
-
-* System diagrams
-* More detailed examples of data that don’t fit in the space of your report
-* Live demonstrations for end-to-end systems
-
-We recommend searching for conference presentation sessions (AAAI, Neurips, ECCV, ICML, ICLR etc) and following those formats.
-
-You can find a sample video from a previous iteration of the class [here](https://www.youtube.com/watch?v=HmDT3NE3dck)
-
 ## Final Report
 
-**Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
+**Deadline:** December 5, Friday 11:59 PM PST **(No late days allowed)**
 
 The final report should contain a comprehensive account of your project. We expect the report to be thorough, yet concise. Broadly, we will be looking for the following:
 
@@ -157,13 +141,15 @@ The final report should contain a comprehensive account of your project. We expe
  * Any insights and discussions relevant to the project
  * References
 
- After the class, we will post all the final writeups online so that you can read about each other’s work. If you do not want your write-up to be posted online, then please create a private Piazza post.
-
- | **Format** | Final project writeups can be **at most 5 pages** long. We will allow up to 5 extra pages for appendices and references. However, TAs may not look at the appendices, so please include all important information in the main report.  If you did this work in collaboration with someone else, or if someone else (such as another professor) had advised you on this work, your write-up must fully acknowledge their contributions. You are strongly encouraged to use this [format](/files/formatting-instructions-cs230.pdf) (here's a link to the [overleaf files](https://www.overleaf.com/read/jcqmtbqhkrxg)). If you are not using this format, make sure to include all sections given in the format. If you prefer to use Microsoft Word, you may refer to the [CVPR template](http://cvpr2019.thecvf.com/files/cvpr2019AuthorKit.zip) or the [IEEE template](https://www.ieee.org/conferences/publishing/templates.html).
- | **Contributions** | Please include a section that describes what each team member worked on and contributed to the project.
+  | **Format** | Final project writeups can be **at most 5 pages** long. We will allow up to 5 extra pages for appendices and references. However, TAs may not look at the appendices, so please include all important information in the main report.  If you did this work in collaboration with someone else, or if someone else (such as another professor) had advised you on this work, your write-up must fully acknowledge their contributions. You are strongly encouraged to use this [format](/files/formatting-instructions-cs230.pdf) (here's a link to the [overleaf files](https://www.overleaf.com/read/jcqmtbqhkrxg)). If you are not using this format, make sure to include all sections given in the format. If you prefer to use Microsoft Word, you may refer to the [CVPR template](http://cvpr2019.thecvf.com/files/cvpr2019AuthorKit.zip) or the [IEEE template](https://www.ieee.org/conferences/publishing/templates.html).
+ | **Contributions** | Please include a section that describes what each team member worked on and contributed to the project. All team members will receive the same grade; therefore, each member is expected to pull their weight. If your final project is shared with another class or an external research project, please see these guidelines: [Is it okay to combine the CS230 term project with that of another class?](/faq/#is-it-okay-to-combine-the-cs230-term-project-with-that-of-another-class-)
  | **Code** | You must submit your code on Gradescope. We will open a submission for submitting code. Please also include a link to a Github repository with the code for your final project if you have one. You do not have to include the data or additional libraries. Code must be organized/readable for full credit.
  | **Grading** | The final report will be judged based off of the clarity of the report, the relevance of the project to topics taught in CS230, the novelty of the problem, and the technical quality and significance of the work.
  | **Submission** | Submit on Gradescope.
 
 ## Poster Session
-The poster session will be held on December 13, Friday 11:30 a.m. to 3 p.m. at AOERC Basketball courts. More information will be provided closer to the date.
+The poster session will be held on Wednesday, December 10 from 12:15 PM to 3:15 PM in the AOERC indoor basketball court. All on-campus students will need to attend the poster session to present. CGOE students will have the option to submit a video presentation. Attendance for on-campus students is mandatory.
+
+The poster and video submission will be due on Gradescope on 12/10 11:59 PM.
+
+| **Poster size** | Your poster should be 20" × 30".

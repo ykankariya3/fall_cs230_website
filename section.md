@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: TA Sections
-description: Section will be held Skilling auditorium on Fridays 11:30-12:20pm. <br> <br> Sections are hourly seminars held every week by the course assistants on various topics in deep learning.  The topics are split between practice and theory, and are subject to change as the quarter progresses. 
+description: Section will be held in Gate B01 on Fridays 11:30-12:20pm. <br> <br> Sections are hourly seminars held every week by the course assistants on various topics in deep learning.  The topics are split between practice and theory, and are subject to change as the quarter progresses. 
 buttons:
 
 # Grid navigation
@@ -27,11 +27,11 @@ grid_navigation:
       cta: Read more
       url: /section/4
     - title: Section 5 (Week 5)
-      excerpt: Midterm Review
-      cta: Details on Ed
-      url:  'https://edstem.org/us/courses/21155'
+      excerpt: PyTorch/Tensorflow
+      cta: Read more
+      url:  /section/5
     - title: Section 6 (Week 6)
-      excerpt: TensorFlow and PyTorch
+      excerpt: Midterm Review Session
       cta: Read more
       url: /section/6
     - title: Section 7 (Week 7)

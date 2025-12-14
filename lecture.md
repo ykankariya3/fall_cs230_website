@@ -17,69 +17,69 @@ grid_navigation:
       cta: Read notes
       url: /lecture/1
       cta: YouTube Link
-      url: "https://www.youtube.com/embed/PySo_6S4ZAg"
+      url: "https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=1"
     - title: Lecture 2
       text: Deep Learning Intuition
       excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/AwQHqWyHRpU" frameborder="0" allowfullscreen></iframe> 
       cta: Read notes
       url: /lecture/2
       cta: YouTube Link
-      url: "https://www.youtube.com/embed/AwQHqWyHRpU"
+      url: "https://www.youtube.com/watch?v=AwQHqWyHRpU&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=2"
     - title: Lecture 3
       text: Full-Cycle Deep Learning Projects
       excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/JUJNGv_sb4Y" frameborder="0" allowfullscreen></iframe>
       cta: Read notes
       url: /lecture/3
       cta: YouTube Link
-      url: "https://www.youtube.com/embed/JUJNGv_sb4Y"
+      url: "https://www.youtube.com/watch?v=JUJNGv_sb4Y&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=3"
     - title: Lecture 4
       text: Adversarial Attacks / GANs
       excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ANszao6YQuM" frameborder="0" allowfullscreen></iframe>
       cta: Read notes
       url: /lecture/4
       cta: YouTube Link
-      url: "https://www.youtube.com/embed/ANszao6YQuM"
+      url: "https://www.youtube.com/watch?v=ANszao6YQuM&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=4"
     - title: Lecture 5
       text: AI + Healthcare
       excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/IM9ANAbufYM" frameborder="0" allowfullscreen></iframe>
       cta: Read notes
       url: /lecture/5
       cta: YouTube Link
-      url: "https://www.youtube.com/embed/IM9ANAbufYM"
+      url: "https://www.youtube.com/watch?v=IM9ANAbufYM&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=5"
     - title: Lecture 6
       text: Deep Learning Project Strategy
       excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/G5FNYxbW_Qw" frameborder="0" allowfullscreen></iframe>
       cta: Read notes
       url: /lecture/6
       cta: YouTube Link
-      url: "https://www.youtube.com/embed/G5FNYxbW_Qw"
+      url: "https://www.youtube.com/watch?v=G5FNYxbW_Qw&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=6"
     - title: Lecture 7
       text: Interpretability of Neural Network
       excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/gCJCgQW_LKc" frameborder="0" allowfullscreen></iframe>
       cta: Read notes
       url: /lecture/7
       cta: YouTube Link
-      url: "https://www.youtube.com/embed/gCJCgQW_LKc"
+      url: "https://www.youtube.com/watch?v=gCJCgQW_LKc&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=7"
     - title: Lecture 8
       text: Career Advice / Reading Papers
       excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/733m6qBH-jI" frameborder="0" allowfullscreen></iframe>
       cta: Read notes
       url: /lecture/8
       cta: YouTube Link
-      url: "https://www.youtube.com/embed/733m6qBH-jI"
+      url: "https://www.youtube.com/watch?v=733m6qBH-jI&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=8"
     - title: Lecture 9
       text: Deep Reinforcement Learning
       excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/NP2XqpgTJyo" frameborder="0" allowfullscreen></iframe>
       cta: Read notes
       url: /lecture/9
       cta: YouTube Link
-      url: "https://www.youtube.com/embed/NP2XqpgTJyo"
+      url: "https://www.youtube.com/watch?v=NP2XqpgTJyo&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=9"
     - title: Lecture 10
       text: Chatbots / Closing Remarks
       excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/IFLstgCNOA4" frameborder="0" allowfullscreen></iframe>
       cta: Read notes
       url: /lecture/10
       cta: YouTube Link
-      url: "https://www.youtube.com/embed/IFLstgCNOA4"
+      url: "https://www.youtube.com/watch?v=IFLstgCNOA4&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=10"
 
 ---

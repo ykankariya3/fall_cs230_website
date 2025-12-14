@@ -30,7 +30,7 @@ doks:
             logo:
                 text:
                 image:
-            copyright: Copyright &copy; 2024. - Stanford University <br>All rights reserved.
+            copyright: Copyright &copy; 2025. - Stanford University <br>All rights reserved.
         social_list:
             # - network_name: facebook
             #   profile_url: '#'
@@ -54,22 +54,22 @@ permalink: /:title/
 
 # Course logistics
 course:
-    quarter: 2024 Fall
+    quarter: 2025 Fall
     time: In person lectures are on Tuesdays 11:30am-1:20pm.
     section_time: TBD
     venue:  Hewlett Teaching Center 200
-    ed: &ed 'https://edstem.org/us/courses/65934'
-    gradescope: 'https://www.gradescope.com/courses/866681'
+    ed: &ed 'https://edstem.org/us/courses/87238'
+    gradescope: 'https://canvas.stanford.edu/courses/212789/external_tools/74302'
     queuestatus:
         url: &qs 'https://queuestatus.com'
         name: 'CS230 (2022 Spring)'
-    canvas: &cvs 'https://canvas.stanford.edu/courses/195135'
+    canvas: &cvs 'https://canvas.stanford.edu/courses/212789/external_tools/28672'
     qa: &qa 'cs230-qa@cs.stanford.edu'
-    midterm_time: '2024-11-06'
+    midterm_time: Planned to be 6pm - 9pm
     project_timeline:
-        proposal: 2024-10-08T23:59:00-07:00
-        milestone: 2024-11-15T23:59:00-07:00
-        poster_and_report: 2024-12-03T23:59:00-07:00
+        proposal: 2025-10-14T11:00:00-07:00
+        milestone: 2025-11-11T11:00:00-07:00
+        poster_and_report: 2025-12-07T23:59:00-07:00
         long_date_format: "%B %-d, %A %I:%M %p"
         syllabus_date_format: "%m/%d %A %I:%M %p"
     links:
@@ -151,7 +151,7 @@ course:
         video:
             icon:
             content: Lecture videos (Canvas)
-            url: 'https://canvas.stanford.edu/courses/195135/external_tools/69960'
+            url: 'https://canvas.stanford.edu/courses/212789/external_tools/69960'
             external_url: true
         canvas:
             icon:
@@ -163,27 +163,23 @@ course:
             content: QueueStatus
             url: *qs
             external_url: true
-        project_appt_calendly:
-            content: Meet with Project TA
-            url: '/officehours/#table'
-            external_url: true
         zoom:
             content: Zoom (link via Canvas)
             url: https://canvas.stanford.edu/courses/154237
             external_url: true
     staff:
-        - name: Kian Katanforoosh
-          type: Instructor
-          url:
-          image: kian.jpg
         - name: Andrew Ng
           type: Instructor
           url:
           image: andrew.jpg
-        - name: Amelie Byun
+        - name: Kian Katanforoosh
+          type: Instructor
+          url:
+          image: kian.jpg
+        - name: John Cho
           type: Course Manager
           url:
-          image: amelie.jpg
+          image: john.jpg
         - name: Swati Dube Batra
           type: Course Advisor
           url: 
@@ -192,52 +188,72 @@ course:
           zoom_link:
           calendly:
           area:
-        - name: Shahab Mousavi
-          type: Head TA
-          url: 
-          image: shahab.jpg
-          zoom_id:
-          zoom_link:
-          calendly: https://calendly.com/stanfordcs230/shahab-project-oh
-          area: AI for Energy, sustainability, climate, and finance; CV; ASR; Autonomous vehicles
-    ta:
-        - name: JB Lim
-          type: TA
-          url: 
-          image: lim.jpg
-          zoom_id:
-          zoom_link:
-          calendly: https://calendly.com/stanfordcs230/jb-project-oh
-          area: LLM agents, Ethics, Applications in social science
         - name: Hee Jung Choi
-          type: TA
+          type: Head TA
           url: 
           image: choi.jpg
           zoom_id:
           zoom_link:
-          calendly: https://calendly.com/stanfordcs230/heejung-oh
+          calendly: https://calendly.com/cheejung-stanford/project-oh
           area: Healthcare
-        - name: Johnny Chang
+    ta:
+        - name: Yash Kankariya
           type: TA
           url: 
-          image: Johnny.jpg
+          image: yash.jpg
           zoom_id:
           zoom_link:
-          calendly: https://calendly.com/stanfordcs230/30min
-          area: LLM, robotics
+          calendly: https://calendly.com/yk210026-stanford/30min
+          area: Agents, LLMs
         - name: Sri Jaladi
           type: TA
           url: 
-          image: jaladi.png
+          image: Sri.jpg
           zoom_id:
           zoom_link:
-          calendly: https://calendly.com/stanfordcs230/sri-project-oh
-          area: Acceleration of models, Sequential models, Image models, Convolutional-based projects (1d, 2d)
-        - name: Raghav Ganesh
+          calendly: https://calendly.com/codyho/15min
+          area: Model Acceleration, Sequential models, Computer Vision, Transformers
+        - name: Vicky Wu
           type: TA
           url: 
-          image: unknown.jpg
+          image: Vicky.jpg
           zoom_id:
           zoom_link:
-          calendly: https://calendly.com/stanfordcs230/raghav-project-oh
-          area: 
+          calendly: https://calendly.com/vwu2010-stanford/new-meeting
+          area: GenAI, LLMs, Robotics
+        - name: Cody Ho
+          type: TA
+          url: 
+          image: Cody.jpg
+          zoom_id:
+          zoom_link:
+          calendly: https://calendly.com/codyho/15min
+          area: NLP, Agents and Tool Calling
+        - name: Shreyas Agarwal
+          type: TA
+          url: 
+          image: shreyas.jpg
+          zoom_id:
+          zoom_link:
+          calendly: https://calendly.com/codyho/15min
+          area: NLP, Agents and Tool Calling
+        - name: Annie Chen
+          type: TA
+          url: 
+          image: annie.jpg
+          zoom_id:
+          zoom_link:
+          calendly: https://calendly.com/codyho/15min
+          area: NLP, Agents and Tool Calling
+        - name: Ryan Lian
+          type: TA
+          url: 
+          image: ryan.jpg
+          zoom_id:
+          zoom_link:
+          calendly: https://calendly.com/codyho/15min
+          area: NLP, Agents and Tool Calling
+        - name: Bassem Akoush
+          type: TA
+          url: 
+          image: bassem.jpg
