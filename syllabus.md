@@ -4,7 +4,7 @@ comments: false
 keywords:
 
 title: Syllabus
-description: For all "Materials and Assignments", follow the deadlines listed on this page, not on Coursera! Assignments are due every Tuesday by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted.
+description: For all "Materials and Assignments", follow the deadlines listed on this page, not on Coursera! Assignments are due every Tuesday by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted.
 buttons:
 micro_nav: false
 ---
@@ -65,7 +65,7 @@ micro_nav: false
             </td>
             <td><strong>Completed modules:</strong>
                 <ul>
-                    <li>C1M1: Introduction to deep learning <a href="/files/C1M1.pdf">(slides)</a></li>due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted
+                    <li>C1M1: Introduction to deep learning <a href="/files/C1M1.pdf">(slides)</a></li>due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted
                     <li>C1M2: Neural Network Basics <a href="/files/C1M2.pdf">(slides)</a></li>
                 </ul>
                 <strong>Optional Video</strong>
@@ -74,12 +74,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Quizzes (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Introduction to deep learning</li>
                     <li>Neural Networks Basics</li>
                 </ul>
-                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted)</strong>
+                <strong>Programming Assignments (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted)</strong>
                 <ul>
                     <li>Python Basics with Numpy (Optional)</li>
                     <li>Logistic Regression with a neural network mindset</li>
@@ -100,12 +100,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Quizzes (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Shallow Neural Networks</li>
                     <li>Key concepts on Deep Neural Networks</li>
                 </ul>
-                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Programming Assignments (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Planar data classification with a hidden layer</li>
                     <li>Building your Deep Neural Network: step by step</li>
@@ -115,7 +115,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#ffb7bf">
             <td><strong>Project Meeting #1</strong></td>
-            <td><strong>10/14/2025 (Meeting #1, project proposal due 11 am PST)</strong></td>
+            <td><strong>10/14/2025 (Meeting #1, project proposal due 8:30 am PST)</strong></td>
             <td><a href="/project/#proposal">Instructions</a></td>
             <td></td>
             <td>
@@ -124,7 +124,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Project Proposal Due</strong></td>
-            <td><strong>10/14/2025 (due 11 am PST)</strong></td>
+            <td><strong>10/14/2025 (due 8:30 am PST)</strong></td>
             <td><a href="/project/#proposal">Instructions</a></td>
             <td></td>
             <td></td>
@@ -148,12 +148,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Quizzes (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Practical aspects of deep learning</li>
                     <li>Optimization Algorithms</li>
                 </ul>
-                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Programming Assignments (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Initialization</li>
                     <li>Regularization</li>
@@ -182,13 +182,13 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Quizzes (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Hyperparameter tuning, Batch Normalization, Programming Frameworks</li>
                     <li>Bird recognition in the city of Peacetopia (case study)</li>
                     <li>Autonomous driving (case study)</li>
                 </ul>
-                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Programming Assignments (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Tensorflow</li>
                 </ul>
@@ -226,12 +226,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Quizzes (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>The basics of ConvNets</li>
                     <li>Deep convolutional models</li>
                 </ul>
-                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Programming Assignments (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Convolutional Model: step by step</li>
                     <li>Convolutional Model: application</li>
@@ -254,12 +254,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Quizzes (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Detection Algorithms</li>
                     <li>Special Applications: Face Recognition & Neural Style Transfer</li>
                 </ul>
-                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Programming Assignments (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Car Detection with YOLO</li>
                     <li>Art Generation with Neural Style Transfer</li>
@@ -274,8 +274,8 @@ micro_nav: false
         </tr>
         <tr style="background-color:#ffcece" id="midterm">
             <td><strong>Midterm</strong></td>
-            <td> <strong>11/6/2025</strong></td>
-            <td> 6pm - 9pm in-person. There will be no make-up exams.</td>
+            <td> <strong>11/4/2026</strong></td>
+            <td> 3 hours, pen and paper format. Attendance is mandatory. There will be no make-up exams.</td>
             <td>
             <br>
             </td>
@@ -294,11 +294,11 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Quizzes (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Recurrent Neural Networks</li>
                 </ul>
-                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Programming Assignments (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Building a Recurrent Neural Network - Step by Step</li>
                     <li>Dinosaur Land -- Character-level Language Modeling</li>
@@ -308,7 +308,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#ffb7bf">
             <td><strong>Project Meeting #2</strong></td>
-            <td><strong>11/11/2025 (Meeting #2, project milestone due 11 am PST)</strong></td>
+            <td><strong>11/11/2025 (Meeting #2, project milestone due 8:30 am PST)</strong></td>
             <td><a href="/project/#milestone">Instructions</a></td>
             <td></td>
             <td>
@@ -317,7 +317,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Project Milestone Due</strong></td>
-            <td><strong>11/11/2025 (due 11 am PST)</strong></td>
+            <td><strong>11/11/2025 (due 8:30 am PST)</strong></td>
             <td><a href="/project/#milestone">Instructions</a></td>
             <td></td>
             <td></td>
@@ -341,12 +341,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Quizzes (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Natural Language Processing and Word Embeddings</li>
                     <li>Sequence Models and Attention Mechanism</li>
                 </ul>
-                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Programming Assignments (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Operations on Word Vectors - Debiasing</li>
                     <li>Emojify!</li>
@@ -368,11 +368,11 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Quizzes (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Transformers</li>
                 </ul>
-                <strong>Programming Assignments (due by 11:00 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
+                <strong>Programming Assignments (due by 8:30 a.m. PST, 30 minutes prior to the start of lecture time, unless otherwise noted):</strong>
                 <ul>
                     <li>Tranformers Architecture with Tensorflow</li>
                 </ul >
@@ -389,7 +389,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#ffcece" id="midterm">
             <td><strong>Project Poster Session</strong></td>
-            <td> <strong>12/10/2025 (Poster session, 12:15-3:15 pm)</strong></td>
+            <td> <strong>12/9/2026 (Poster session)</strong></td>
             <td></td>
             <td></td>
         </tr>

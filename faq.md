@@ -39,28 +39,14 @@ For GPU support (if you have CUDA-compatible hardware and drivers installed):
 pip install tensorflow-gpu
 ```
 
-## What is the grading breakdown?
-Below is the breakdown of the class grade:
- * 40%: Final project (broken into proposal, milestone, final report and final poster session) One meeting with a TA each before the proposal, milestone and final report are graded.
- * 25%: Midterm
- * 25%: Programming assignment
- * 8%: Quizzes
- * 2%: Meeting Attendance (one before the proposal deadline and one before the milestone deadline)
-
 ## Will there be a poster session?
-The poster session will be held on Wednesday, December 10 from 12:15 PM to 3:15 PM in the AOERC indoor basketball court. All on-campus students will need to attend the poster session to present. CGOE students will have the option to submit a video presentation. Attendance for on-campus students is mandatory.
+Yes, there will be a poster session. Attendance is mandatory for all in-person students. See this [Ed post](https://edstem.org/us/courses/106808/discussion/8299101) for more details.
 
-The poster and video submission will be due on gradescope on 12/19 11:59 PM.
 ## Will there be sections?
 Yes, there will still be sections. Check Ed for information about logistics.
 
-## How do I join lectures?
-Lectures are on Tuesdays 11:30am-1:20pm  in Hewlett Teaching Center 200 . We encourage lecture attendance. However, recordings will also be posted after lecture onto Canvas.
-
 ## How is the final project graded?
-The final project grade will incorporate the following components:
- * Grade on 4 deliverables
- * Meeting attendance/participation for 2 TA meetings
+The final project grade incorporates the proposal, milestone, final report, and poster session (or video presentation).
 
 ## What are the deliverables as part of the final project?
 The project has main deliverables:
@@ -115,7 +101,3 @@ Not officially, but a great resource is [The Deep Learning book](http://www.deep
 
 ## I want to do a project in NLP, computer vision, with GANs, etc but it wasn’t covered much in lecture. How can I get more resources?
 See the question above. You might have to learn some core concepts there on your own such as doc2vec or auto-encoders by checking out research papers and other types of content (blog posts, courses, videos, etc.) to better grasp the content. Please ask for help, the TAs often have great content to direct you to. 
-
-
-## Can I audit CS230?
-In general we welcome guests to sit-in on lectures if they are a member of the Stanford community (registered student, staff, and/or faculty). If the class is too crowded and we’re out of space, we ask to give priority to enrolled students. Auditors have access to recorded lectures on canvas as well. However, please keep in mind that we cannot add auditors to Ed, Gradescope, and Coursera platform. If you are a Research Scientist, Visiting Scholar, Postdoctoral student, Faculty or Staff with a valid SUNet ID, please fill out the following [request form](https://forms.gle/xZXdvW7Ad6bahAsy8).

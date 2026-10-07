@@ -51,7 +51,7 @@ This section contains the detailed instructions for the different parts of your 
 
 **Submission:** We will be using Gradescope for submission of all four parts of the final project. We'll announce when submissions are open for each part. **You should submit on Gradescope as a group: that is, for each part, please make one submission for your entire project group and tag your team members.** In addition, please make sure you tag all of your pages correctly. There may be a penalty for any mis-tagging.
 
-**Evaluation:** We will not be disclosing the breakdown of the 40% that the final project is worth amongst the different parts, but the final report will be the majority of the grade. **Attendance and participation during your TA meetings will also be considered.** Projects will be evaluated based on:
+**Evaluation:** The final project is worth 45% of your grade, broken down into the proposal (2%), milestone (7%), final report (30%), and poster session (6%). Projects will be evaluated based on:
 
  * The technical quality of the work. (I.e., Does the technical material make sense? Are the things tried reasonable? Are the proposed algorithms or applications clever and interesting? Do the authors convey novel insight about the problem and/or algorithms?)
  * Significance. (Did the authors choose an interesting or a “real" problem to work on, or only a small “toy" problem? Is this work likely to be useful and/or have impact?)
@@ -63,7 +63,7 @@ In order to highlight these components, it is important you present a solid disc
 
 ## Proposal
 
-**Deadline:** October 14, Tuesday 11:00 AM PST
+**Deadline:** October 14, Tuesday 8:30 AM PST
 
 First, make sure to submit a Googleform (which will be posted/shared on Ed) so that we can match you to a TA mentor. In the form you willl have to provide your project title, team members, and relevant research area(s).
 
@@ -93,12 +93,12 @@ We link one past example of a good project proposal [here](/winter2020/example_p
 
 | **Project mentors** | Based off of the topic you choose in your proposal, we’ll suggest a project mentor given the areas of expertise of the TAs. This is just a recommendation; feel free to speak with other TAs as well.
 | **Format** | Your proposal should be a PDF document, giving the title of the project, the project category, the full names of all of your team members, the SUNet ID of your team members, and a 300-500 word description of what you plan to do.
-| **Grading** | The project proposal is mainly intended to make sure you decide on a project topic and get feedback from TAs early. As long as your proposal follows the instructions above and the project seems to have been thought out with a reasonable plan, you should do well on the proposal. Additionally, we ask you to meet with a TA prior to the deadline to run your ideas by them. This will count toward your attendance grade.
+| **Grading** | The project proposal is mainly intended to make sure you decide on a project topic and get feedback from TAs early. As long as your proposal follows the instructions above and the project seems to have been thought out with a reasonable plan, you should do well on the proposal. Additionally, we ask you to meet with a TA prior to the deadline to run your ideas by them.
 | **Submission** | Fill out the form shared on Ed and submit the proposal on Gradescope (see description under deadline for instructions)
 
 ## Milestone
 
-**Deadline:** November 11, Tuesday 11:00 AM PST
+**Deadline:** November 11, Tuesday 8:30 AM PST
 
 The milestone will help you make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report. Please write the milestone (and final report) keeping in mind that the intended audience is Profs. Ng and Katanforoosh and the TAs. Thus, for example, you should not spend two pages explaining what logistic regression is. Your milestone should include the full names of all your team members and state the full title of your project. **Note:** We will expect your final writeup to be on the same topic as your milestone. In order to help you the most, we expect you to submit your running code. Your code should contain a baseline model for your application. Along with your baseline model, you are welcome to submit additional parts of your code such as data pre-processing, data augmentation, accuracy matric(s), and/or other models you have tried. Please clean your code before submitting, comment on it, and cite any resources you used. Please **do not submit your dataset**. However, you may include a few samples of your data in the report if you wish.
 
@@ -118,7 +118,7 @@ The milestone will help you make sure you're on track, and should describe what 
         </tr>
         <tr>
             <td><b>Grading</b></td>
-            <td>The milestone is mostly intended to get feedback from TAs to make sure you’re making reasonable progress. As long as your milestone follows the instructions and you seem to have tested any assumptions which might prevent your team from completing the project, you should do well on the milestone. Additionally, we ask you to meet with your assigned TA prior to the deadline to check in. This will count toward your attendance grade.</td>
+            <td>The milestone is mostly intended to get feedback from TAs to make sure you’re making reasonable progress. As long as your milestone follows the instructions and you seem to have tested any assumptions which might prevent your team from completing the project, you should do well on the milestone. Additionally, we ask you to meet with your assigned TA prior to the deadline to check in.</td>
         </tr>
         <tr>
             <td><b>Submission</b></td>
@@ -148,8 +148,6 @@ The final report should contain a comprehensive account of your project. We expe
  | **Submission** | Submit on Gradescope.
 
 ## Poster Session
-The poster session will be held on Wednesday, December 10 from 12:15 PM to 3:15 PM in the AOERC indoor basketball court. All on-campus students will need to attend the poster session to present. CGOE students will have the option to submit a video presentation. Attendance for on-campus students is mandatory.
-
-The poster and video submission will be due on Gradescope on 12/10 11:59 PM.
+Date, time, and location will be available on the [syllabus](https://docs.google.com/spreadsheets/u/4/d/1S62zSd6YW7HIWAIy0wh0YTeHlsUczZGkaynHEHX-H9M/edit?gid=0#gid=0). All on-campus students must attend and present in person — attendance is mandatory. CGOE-only teams (no on-campus members) will submit a video presentation instead. Teams with at least one on-campus student must submit a poster and present in person — no make-up sessions or video substitutions are allowed.
 
 | **Poster size** | Your poster should be 20" × 30".
